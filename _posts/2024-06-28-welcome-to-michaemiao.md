@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+title: Welcome to Study_Line!！
+subtitle: A awesome studyer try to run.
+author: michaemiao
+categories: Introduce
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
@@ -16,7 +16,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: Introduce
 top: 1
 sidebar: []
 ---
