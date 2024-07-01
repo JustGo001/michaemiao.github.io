@@ -16,7 +16,6 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-  text: "一位23年毕业生学习的旅程，学更多，赚更多\Life is fucking coming！"
 tags: Introduce
 top: 1
 sidebar: [ ]
@@ -25,6 +24,9 @@ sidebar: [ ]
 ## Welcome
 
 欢迎各位
+**文章简介：** 大家好，这是一位23年毕业生的学习旅途，冲！赚大钱\
+Life is fucking coming！
+
 
 ```cpp
 #include <iostream>
