@@ -19,12 +19,14 @@ banner:
 tags: Introduce
 top: 1
 sidebar: [ ]
+show_content: false
 ---
-
+**大家好，这是一位23年毕业生的学习旅途，冲!赚大钱** 
+**Life is fucking coming!** 
 ## Welcome
 
 欢迎各位
-**文章简介：** 大家好，这是一位23年毕业生的学习旅途，冲! **赚大钱** Life is fucking coming!
+
 
 ```cpp
 #include <iostream>
